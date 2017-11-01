@@ -1,0 +1,22 @@
+{
+  "name": "express-datatables",
+  "version": "1.0.0",
+  "description": "An express/datatables app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YuZhenpin/express-datatables.git"
+  },
+  "author": "yuzhenpin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YuZhenpin/express-datatables/issues"
+  },
+  "homepage": "https://github.com/YuZhenpin/express-datatables#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
